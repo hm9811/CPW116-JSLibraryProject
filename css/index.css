@@ -1,5 +1,5 @@
 .section{
-    color: white;
+    color: rgb(188, 230, 231);
 }
 
 .s0{
@@ -7,7 +7,7 @@
     background-size: cover;
 }
 .s1{
-    background-image: url('/lasvegas.jpg');
+    background-image: url('/image/lasvegas.jpg');
     background-size: cover;
 }
 .s1 h3{
