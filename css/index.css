@@ -3,22 +3,22 @@
 }
 
 .s0{
-    background-image: url(/image/seoul.jpg);
+    background-image: url('/image/seoul.jpg');
     background-size: cover;
 }
 .s1{
-    background-image: url(/image/lasvegas.jpg);
+    background-image: url('/image/lasvegas.jpg');
     background-size: cover;
 }
 .s1 h3{
     display: none;
 }
 .s2{
-    background-image: url(/image/sanfrancisco.png);
+    background-image: url('/image/sanfrancisco.png');
     background-size: cover;
 }
 .s3{
-    background-image: url(/image/newyork.jpg);
+    background-image: url('/image/newyork.jpg');
     background-size: cover;
 }
 
